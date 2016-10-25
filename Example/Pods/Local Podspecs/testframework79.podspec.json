@@ -1,0 +1,22 @@
+{
+  "name": "testframework79",
+  "version": "0.1.0",
+  "summary": "A short description of testframework79.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/testframework79",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "demo": "demo@demo.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/testframework79.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "testframework79/Classes/**/*"
+}

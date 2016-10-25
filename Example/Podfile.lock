@@ -1,0 +1,16 @@
+PODS:
+  - testframework79 (0.1.0)
+
+DEPENDENCIES:
+  - testframework79 (from `../`)
+
+EXTERNAL SOURCES:
+  testframework79:
+    :path: ../
+
+SPEC CHECKSUMS:
+  testframework79: 90cfa3b0bc4b8e242801703577114590da1fba0a
+
+PODFILE CHECKSUM: b4eec0648548173fcdb5ae0184e850ff4352ee6b
+
+COCOAPODS: 1.0.1
